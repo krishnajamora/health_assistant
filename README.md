@@ -18,9 +18,7 @@ It leverages **Natural Language Processing (NLP)** and **Machine Learning** to u
 ---
 
 ## 📂 Project Structure
-├── data/ # Symptom-disease dataset
-├── models/ # Trained ML/NLP models
-├── src/ # Source code (NLP, chatbot logic, prediction)
+├── templates #index.html
 ├── app.py # Main Streamlit/Flask app
 ├── requirements.txt # Dependencies
 └── README.md # Documentation
